@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32708.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MICRFundamentals", "MICRFundamentals\MICRFundamentals.csproj", "{629016F6-8B0E-450D-9DB3-774CDF9AC973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLogic", "CoreLogic\CoreLogic.csproj", "{7B05E738-0490-432D-9A05-34F6B9E36B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629016F6-8B0E-450D-9DB3-774CDF9AC973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629016F6-8B0E-450D-9DB3-774CDF9AC973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629016F6-8B0E-450D-9DB3-774CDF9AC973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629016F6-8B0E-450D-9DB3-774CDF9AC973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B05E738-0490-432D-9A05-34F6B9E36B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B05E738-0490-432D-9A05-34F6B9E36B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B05E738-0490-432D-9A05-34F6B9E36B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B05E738-0490-432D-9A05-34F6B9E36B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7E5639-A262-4B48-AF3A-3E135A92CA11}
+	EndGlobalSection
+EndGlobal
